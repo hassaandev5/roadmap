@@ -1,0 +1,135 @@
+.sub-btn {
+  background-color: rgb(185, 15, 15);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 2px;
+  width: 105px;
+  margin-right: 8px;
+}
+
+.sub-btn:hover {
+  cursor: pointer;
+  opacity: 50%;
+}
+
+.join-btn {
+  background-color: white;
+  border-color: rgb(21, 21, 212);
+  border-style: solid;
+  border-width: 1px;
+  color: rgb(21, 21, 212);
+  /* border: 1px solid blue; */
+  border-radius: 2px;
+  height: 36px;
+  width: 60px;
+  margin-right: 8px;
+}
+
+.join-btn:hover {
+  cursor: pointer;
+}
+
+.tweet-btn {
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(0, 183, 255);
+  border: none;
+  border-radius: 18px;
+  height: 36px;
+  width: 75px;
+}
+
+.tweet-btn:hover {
+  cursor: pointer;
+}
+
+.container {
+  margin-top: 12px;
+}
+
+.req-btn {
+  color: white;
+  background-color: black;
+  /* padding: 10px; */
+  width: 100px;
+  height: 40px;
+  border: none;
+  margin-right: 8px;
+}
+
+.cart-btn {
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  background-color: rgb(255, 216, 20);
+  border: none;
+  border-radius: 20px;
+  height: 35px;
+  width: 180px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
+.signup-btn {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: rgb(46, 164, 79);
+  /* padding: 12px; */
+  width: 90px;
+  height: 40px;
+  border: none;
+  border-radius: 5px;
+}
+
+.boot-btn {
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  background-color: rgb(121, 82, 179);
+  width: 112px;
+  height: 45px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 8px;
+}
+
+.download-btn {
+  font-size: 14px;
+  font-weight: bold;
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-style: solid;
+  border-color: rgb(108, 117, 125);
+  border-radius: 5px;
+  width: 112px;
+  height: 45px;
+  cursor: pointer;
+}
+
+.linkedin-btn {
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(10, 102, 194);
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: none;
+  border-radius: 18px;
+  margin-right: 8px;
+}
+
+.save-btn {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(10, 102, 194);
+  background-color: white;
+  border-color: rgb(10, 102, 194);
+  border-style: solid;
+  border-radius: 18px;
+  padding: 10px 18px;
+}
